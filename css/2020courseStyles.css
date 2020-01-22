@@ -307,10 +307,10 @@ li a {
 /*	color:red;	
 	color: #ea0fbf;*/
 	display: inline-block;
-	font-size: 12pt; 
+	font-size: 10pt; 
 	list-style: none;
 	margin-top: -5px;
-	margin-bottom: 10px;
+	margin-bottom: 2px;
 /*	margin-left: 10px;*/
 	max-width:600px;
 	/*-webkit-text-stroke: 0.8px black;*/
@@ -391,7 +391,7 @@ text-decoration: underline;
 .date{
 	color: 4B1C13;
 	color: #ace742;
-	font-size:22pt;
+	font-size:14pt;
 	margin-left: 20px;
 	padding-bottom: 5px;
 	/*-webkit-text-stroke: 0.8px black;*/
@@ -407,7 +407,7 @@ text-decoration: underline;
 	font-style: normal; 
 	font-weight: normal; 
 	text-decoration: none; */
-	font-size: 22pt; 
+	font-size: 14pt; 
 	max-width:400px;
 }
 
@@ -449,7 +449,7 @@ text-decoration: underline;
 	color: #cebec0;
 	color: #f93650;
 	color: #6d1521;
-	font-size:12pt;
+	font-size:10pt;
 	max-width:500px;
 	margin-left: 0px;
 	margin-top: -10px;
@@ -459,7 +459,7 @@ text-decoration: underline;
 .names {
 	background-color: #ce9665;
 	color:brown;
-	font-size:10pt;
+	font-size:8pt;
 	margin-top: -10px;
 	padding: 10px 40px 10px 30px;
 	max-width:500px;
@@ -655,7 +655,7 @@ text-decoration: underline;
 .linkz{
 
 	color: 4B1C13;
-	font-size: 12pt;
+	font-size: 10pt;
 	margin-top:15px;
 	margin-left: 20px;
 }
